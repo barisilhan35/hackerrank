@@ -5,6 +5,6 @@ package com.baris.hackerrank;
  */
 public class Day8Maps {
     public static void main(String[] args) {
-
+        System.out.println("merge");
     }
 }
